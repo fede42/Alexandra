@@ -1139,7 +1139,7 @@ a.w3l-cont:hover {
     text-align: center;
     display: inline-block;
     font-size: 1.1em;
-    border: 2px solid #ea8116;
+    border: 2px solid #ba1b1b;
     border-radius: 25px;
 }
 .linkHoverEffect_2 li:nth-child(1) {
@@ -1211,8 +1211,8 @@ a.w3_agile_instagram:hover{
     bottom: 6%;
     right: 3%;
     overflow: hidden;
-    width: 32px;
-    height: 32px;
+    width: 64px;
+    height: 64px;
     border: none;
     text-indent: 100%;
     background: url("../images/moov.png") no-repeat 0px 0px;
@@ -1233,8 +1233,8 @@ a.w3_agile_instagram:hover{
     transform: scale(1);
 }
 #toTopHover {
-	width: 32px;
-	height: 32px;
+	width: 64px;
+	height: 64px;
 	display: block;
 	overflow: hidden;
 	float: right;
